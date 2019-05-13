@@ -74,18 +74,6 @@
               "Good": true,
               "Questionable": false,
               "Substituted": false
-            },
-            {
-              "Timestamp": "2019-05-10T07:00:00Z",
-              "Value": {
-                "Name": "Invalid Data",
-                "Value": 299,
-                "IsSystem": true
-              },
-              "UnitsAbbreviation": "",
-              "Good": false,
-              "Questionable": false,
-              "Substituted": false
             }
           ],
           "UnitsAbbreviation": ""
