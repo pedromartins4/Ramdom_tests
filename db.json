@@ -1,6 +1,5 @@
 {
-  "posts": [
-        {
+  "posts":{
           "Links": {},
           "Items": [
             {
@@ -78,5 +77,4 @@
           ],
           "UnitsAbbreviation": ""
         }
-      ]
 }
