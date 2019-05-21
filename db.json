@@ -1,80 +1,37 @@
 {
-  "posts":{
-          "Links": {},
-          "Items": [
-            {
-              "Timestamp": "2019-05-08T13:30:00Z",
-              "Value": 3.77480841,
-              "UnitsAbbreviation": "",
-              "Good": true,
-              "Questionable": false,
-              "Substituted": false
+  "posts":
+  {
+    "Links": {},
+    "Items": [
+        {
+            "Timestamp": "2019-05-16T12:30:00Z",
+            "Value": 3.93961883,
+            "UnitsAbbreviation": "",
+            "Good": true,
+            "Questionable": false,
+            "Substituted": false
+        },
+        {
+            "Timestamp": "2019-05-16T12:45:00Z",
+            "Value": 4.242869,
+            "UnitsAbbreviation": "",
+            "Good": true,
+            "Questionable": false,
+            "Substituted": false
+        },
+        {
+            "Timestamp": "2019-05-16T13:00:00Z",
+            "Value": {
+                "Name": "Invalid Data",
+                "Value": 299,
+                "IsSystem": true
             },
-            {
-              "Timestamp": "2019-05-08T13:45:00Z",
-              "Value": 3.82491088,
-              "UnitsAbbreviation": "",
-              "Good": true,
-              "Questionable": false,
-              "Substituted": false
-            },
-            {
-              "Timestamp": "2019-05-08T14:00:00Z",
-              "Value": 3.578355,
-              "UnitsAbbreviation": "",
-              "Good": true,
-              "Questionable": false,
-              "Substituted": false
-            },
-            {
-              "Timestamp": "2019-05-08T14:15:00Z",
-              "Value": 3.53748226,
-              "UnitsAbbreviation": "",
-              "Good": true,
-              "Questionable": false,
-              "Substituted": false
-            },
-            {
-              "Timestamp": "2019-05-08T14:30:00Z",
-              "Value": 3.54803014,
-              "UnitsAbbreviation": "",
-              "Good": true,
-              "Questionable": false,
-              "Substituted": false
-            },
-            {
-              "Timestamp": "2019-05-08T14:45:00Z",
-              "Value": 3.606043,
-              "UnitsAbbreviation": "",
-              "Good": true,
-              "Questionable": false,
-              "Substituted": false
-            },
-            {
-              "Timestamp": "2019-05-08T15:00:00Z",
-              "Value": 3.580992,
-              "UnitsAbbreviation": "",
-              "Good": true,
-              "Questionable": false,
-              "Substituted": false
-            },
-            {
-              "Timestamp": "2019-05-08T15:15:00Z",
-              "Value": 3.7721715,
-              "UnitsAbbreviation": "",
-              "Good": true,
-              "Questionable": false,
-              "Substituted": false
-            },
-            {
-              "Timestamp": "2019-05-08T15:30:00Z",
-              "Value": 3.76162362,
-              "UnitsAbbreviation": "",
-              "Good": true,
-              "Questionable": false,
-              "Substituted": false
-            }
-          ],
-          "UnitsAbbreviation": ""
+            "UnitsAbbreviation": "",
+            "Good": false,
+            "Questionable": false,
+            "Substituted": false
         }
+    ],
+    "UnitsAbbreviation": ""
+}
 }
