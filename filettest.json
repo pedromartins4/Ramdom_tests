@@ -1,0 +1,34 @@
+{
+"Links": {},
+        "Items": [
+            {
+                "Timestamp": "2019-05-16T12:30:00Z",
+                "Value": 3.93961883,
+                "UnitsAbbreviation": "",
+                "Good": true,
+                "Questionable": false,
+                "Substituted": false
+            },
+            {
+                "Timestamp": "2019-05-16T12:45:00Z",
+                "Value": 4.242869,
+                "UnitsAbbreviation": "",
+                "Good": true,
+                "Questionable": false,
+                "Substituted": false
+            },
+            {
+                "Timestamp": "2019-05-16T13:00:00Z",
+                "Value": {
+                    "Name": "Invalid Data",
+                    "Value": 299,
+                    "IsSystem": true
+                },
+                "UnitsAbbreviation": "",
+                "Good": false,
+                "Questionable": false,
+                "Substituted": false
+            }
+        ],
+        "UnitsAbbreviation": ""
+}
