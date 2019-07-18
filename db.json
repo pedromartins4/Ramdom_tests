@@ -5,10 +5,6 @@
             "array_values": []
         },
         {
-            "id": 2,
-            "array_values": []
-        },
-        {
             "id": 3,
             "array_values": [
                 {
@@ -25,20 +21,13 @@
                     "code": "fgh",
                     "amount": "7",
                     "type": "percentage"
+                },
+                {
+                    "code": "fgh",
+                    "amount": "7",
+                    "type": "percentage"
                 }
             ]
-        },
-        {
-            "id": 5,
-            "array_values": []
-        },
-        {
-            "id": 6,
-            "array_values": []
-        },
-        {
-            "id": 7,
-            "array_values": []
         }
     ]
 }
